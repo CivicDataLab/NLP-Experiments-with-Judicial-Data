@@ -1,256 +1,177 @@
 case_id,statute_opennyai,provision_opennyai,statute_metadata,provision_metadata
-ASDU100003992019,Code Of Criminal Procedure,['313'],POCSO Act,['8']
-ASDU100003992019,Indian Penal Code,['376 (2)(3)'],,
-ASDU100003992019,POCSO Act,"['6', '8']",,
-ASDU010013662018,Code Of Criminal Procedure,"['.164', '.313']",Indian Penal Code,['447']
-ASDU010013662018,Indian Penal Code,"['.447', '.447', '.447 .447/341']",POCSO Act,['4']
-ASDU010013662018,POCSO Act,"['.4', '.447 ec.4', '.447 |I.B.C R', 'ec.4']",,
-ASDU010013662018,"POCSO Act, 2012",['.4'],,
-ASDU100005362019,Code Of Criminal Procedure,['313'],POCSO Act,['4']
-ASDU100005362019,Indian Penal Code,['120(B)/384/34'],,
-ASDU100005362019,POCSO Act,['4'],,
-ASDU100000562015,Code Of Criminal Procedure,"['154', '164', '313', '357 A', '357-A (Il Aks 61', '365', '428']",POCSO Act,['4']
-ASDU100000562015,Indian Penal Code,"['360', '375', '376']",,
-ASDU100000562015,POCSO Act,"['29', '3', '4', '5', '7', '9']",,
-ASDU100000192019,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['4']
-ASDU100000192019,POCSO Act,"['3', '4']",,
-ASDU100003032018,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['6']
-ASDU100003032018,POCSO Act,['6'],,
-ASDU010005262018,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,"['342', '376']"
-ASDU010005262018,Indian Penal Code,"['376/342', '342', '342/376', '376']",POCSO Act,['4']
-ASDU010005262018,POCSO Act,['4'],,
-ASDU010005262018,Poco Act,['4'],,
-ASDU010019002018,Code Of Criminal Procedure,['.313'],POCSO Act,['4']
-ASDU010019002018,Indian Penal Code,"['.120(B)', '.120(B) I)/420/34', '.120(B) .120(B)/447/376(1', '.120(B) .120(B)/447/376(1)\n(I)/420/34', '.376(2)(I)\nI.P.C.', '.376(2)(I)\n|.P.C And', '.376(2)(I) I1.B.C And', '.376(2)(I)']",,
-ASDU010019002018,POCSO Act,"['4', '.4', 'ec.4']",,
-ASDU010014692018,Code Of Criminal Procedure,"['313', '437A']",Indian Penal Code,"['363', '376AB']"
-ASDU010014692018,Indian Penal Code,['363'],POCSO Act,['6']
-ASDU010014692018,POCSO Act,"['363/376(Ab', '363/376(Ab)', '363/376(Ab) R', '376(Ab)', '6', '8', '8']",,
-ASDU100003352018,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['8']
-ASDU100003352018,Indian Penal Code,"['120(B)/451 Ipc R', '120(B)/451', '447/354(A', '447/354(A)', '451/354(A', '451/354(A)', '447/354(A', '447/354(A)']",,
-ASDU100003352018,POCSO Act,"['447/354(A', '447/354(A)', '8', '7', '8']",,
-ASDU010003142019,Code Of Criminal Procedure,"['437A', '.313']",Indian Penal Code,"['376(3)', '323']"
-ASDU010003142019,Indian Penal Code,"['.\n\n376(3)', '.376(3)', '.376(3)', '.376(3) .376(3)/323 I.P.C R', '.420', '.420 .420/376(3)/307']",POCSO Act,['4']
-ASDU010003142019,POCSO Act,"['.4', 'ec. 4', 'ec.4']",,
-ASDU010000462019,Code Of Criminal Procedure,"['313', '437A']",Indian Penal Code,"['354B', '294', '507']"
-ASDU010000462019,Indian Penal Code,"['294', '294/507', '354(A)/354(D)/', '354(B)/294/507 And', '354(B)/294/507', '. 294']",POCSO Act,['12']
-ASDU010000462019,POCSO Act,"['12', 'ec.12']",,
-ASDU010003172016,Code Of Criminal Procedure,"['164', '313', '437-A']",POCSO Act,['4']
-ASDU010003172016,Indian Penal Code,"['161', '366- A/376', '366-A', '366-A/376', '366-A/376/34', '376', 'A/376', 'A/376/34']",Indian Penal Code,"['366A', '376']"
-ASDU010003172016,POCSO Act,['4'],,
-ASDU100000842016,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['10']
-ASDU100000842016,POCSO Act,"['10', '9']",,
-ASDU100000842016,"S 2 Of Mental Health Act, 1987",['Clause (I)'],,
-ASDU010000832018,Code Of Criminal Procedure,"['161', '164', '313', '437-A']",Indian Penal Code,"['366', '376D']"
-ASDU010000832018,Indian Penal Code,"['366(A)/376 (A)/120(B)/201/506', '366(A)/376', '366/376', '366/376(D', '366/376(D)', '366A/376 G/120', '366A/376', 'A)/120(B)/201/506', 'B/201/506', 'G/120-B/201/506', '365-D', '366-A', '376', '376-D', '376-D/366-', 'D/366- A']",POCSO Act,['6']
-ASDU010000832018,POCSO Act,"['4', '6', 'ectiom 6']",,
-ASDU010000172017,2 (D) Of POCSO Act,[''],POCSO Act,['4']
-ASDU010000172017,Code Of Criminal Procedure,"['161', '164', '313', '437-A']",Indian Penal Code,['376']
-ASDU010000172017,Indian Penal Code,"['3/76', '375', '376', ': 376']",,
-ASDU010000172017,POCSO Act,"['2 (D)', '4']",,
-ASDU010005952015,Code Of Criminal Procedure,"['164', '313', '. 164']",POCSO Act,['366A342208']
-ASDU010005952015,Indian Penal Code,"['366(A)', '366(A)/342 Ipc And', '366(A)/342']",,
-ASDU010005952015,Of Indian Penal Code,['366(A)/342'],,
-ASDU010005952015,POCSO Act,['8'],,
-ASDU010005952015,"POCSO Act, 2012",['8'],,
-ASDU100002092019,Code Of Criminal Procedure,['313'],POCSO Act,['12']
-ASDU100002092019,POCSO Act,['12'],,
-ASDU010000122018,Code Of Criminal Procedure,"['161', '164', '222 (2)', '313', '357-A', '53-A']",Indian Penal Code,"['448', '376']"
-ASDU010000122018,Indian Penal Code,"['448/376', '375', '376', '442', '448', '448/342/376', '448/376']",POCSO Act,['4']
-ASDU010000122018,POCSO Act,"['3', '4', '7', '8']",,
-ASDU010005232018,Code Of Criminal Procedure,"['161', '164', '222 (2)', '313', '357-A']",Indian Penal Code,"['448', '376']"
-ASDU010005232018,Indian Penal Code,"['375', '376', '442', '448', '448/376']",POCSO Act,['6']
-ASDU010005232018,POCSO Act,"['42. 30', '42. 42.s 29', '10 \x0c10', '10', '2 (D)', '29', '3', '30', '5', '6', '7', '9 (M)', '9']",,
-ASDU010003072016,Code Of Criminal Procedure,"['161', '164', '313']",POCSO Act,['8']
-ASDU010003072016,Indian Penal Code,"['34', '341', '341,376(2', '341,376(2) (I)', '376 (2) (I)', '376 (2) (I)/511', '376(2) (I)', '506', '511', 'I)/511']",,
-ASDU010003072016,POCSO Act,['8'],,
-ASDU010003072016,"POCSO Act, 2012",['8'],,
-ASDU010002332015,Code Of Criminal Procedure,"['.164', '.313', '.357 (A)', 'ec. 154']",POCSO Act,['8']
-ASDU010002332015,Evidence Act,['ec. 11'],,
-ASDU010002332015,POCSO Act,"['7', '8', '. 8', '.7', '.8']",,
-ASDU010015342018,Code Of Criminal Procedure,['.313'],Indian Penal Code,"['448', '376']"
-ASDU010015342018,Indian Penal Code,"['.448', '.448 .448/376']",POCSO Act,['4']
-ASDU010015342018,POCSO Act,"['.448', '.448 .448/376', 'ec.4']",,
-ASDU010015342018,Protection Of Children From Sexual Offence,['ec.4'],,
-ASDU100005602019,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100005602019,Indian Penal Code,['376'],,
-ASDU100005602019,POCSO Act,['4'],,
-ASDU100001252019,Code Of Criminal Procedure,['313'],POCSO Act,['6']
-ASDU100001252019,Indian Penal Code,"['366/376', '109', '376']",,
-ASDU100001252019,POCSO Act,['6'],,
-ASDU010003522019,Code Of Criminal Procedure,"['313', '437A']",Indian Penal Code,"['120B', '447', '376(3)']"
-ASDU010003522019,Indian Penal Code,"['120(B)', '120(B)/376(3)/34 I.P.C And', '120(B)/376(3)/34', '120(B)/447/376(3', '120(B)/447/376(3)', '120(B)/448 I.P.C Read', '120(B)/448', '376(3)/34', '.\n\n120(B)', '.\n\n120(B) 120(B)/376(3)/34', '. 120(B)/376(3)/34 I.P.C.', '. 120(B)/376(3)/34', 'ec.120(B)', 'ec.120(B) ec.120(B)/376(3)/34 I.P.C.', 'ec.120(B) ec.120(B)/376(3)/34', 'ec.376(3)']",POCSO Act,['4']
-ASDU010003522019,POCSO Act,['4'],,
-ASDU100001002017,Code Of Criminal Procedure,['313'],POCSO Act,['8']
-ASDU100001002017,Indian Penal Code,"['120(B)/448/34', '448']",,
-ASDU100001002017,POCSO Act,['8'],,
-ASDU100003342018,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['6']
-ASDU100003342018,Indian Penal Code,"['376(F)/376(L', '376(F)/376(L)', '376 (I)', '376(2)(F)(1)', '376(F)', '376(F)/376(L', '376(F)/376(L)']",,
-ASDU100003342018,POCSO Act,"['5', '5(1)(N)', '6']",,
-ASDU100003342018,Probation Of Offenders Act,['3/4'],,
-ASDU010001622019,Code Of Criminal Procedure,"['.164', '.313']",Indian Penal Code,['376(3)']
-ASDU010001622019,I.Pb.C,['.376(3)'],POCSO Act,['4']
-ASDU010001622019,Indian Penal Code,"['376(3)', '.376(3)']",,
-ASDU010001622019,POCSO Act,"['4', '.4', 'ec.4']",,
-ASDU010004162016,Code Of Criminal Procedure,"['161', '164', '313', '357-A']",Indian Penal Code,['366(A)']
-ASDU010004162016,Cr,['222 (2)'],POCSO Act,['4']
-ASDU010004162016,Indian Penal Code,"['361', '363', '366- A', '366-A', '366-A/34', '375', 'A/34', 's 366-A']",,
-ASDU010004162016,POCSO Act,"['2 (1) (D)', '3', '4']",,
-ASDU010000102019,Code Of Criminal Procedure,"['. 313', 'ec.437A']",Indian Penal Code,"['366A', '376']"
-ASDU010000102019,Indian Penal Code,"['.\n366(A)', '.366(A)', '.366(A)', '.366(A) .366(A)/34', 'ec.376']",POCSO Act,['4']
-ASDU010000102019,POCSO Act,"['. 366(A)/376 I.P.C. R', '. 366(A)/376', '.4', 'ec.4']",,
-ASDU010005832018,Code Of Criminal Procedure,"['. 5)', '161', '164', '222 (2)', '313', '357-A', '. 164 (5)']",Indian Penal Code,['376']
-ASDU010005832018,Indian Evidence Act,['118'],POCSO Act,['4']
-ASDU010005832018,Indian Penal Code,"['354-A', '354-B', '354A', '375', '376', '. 354A', '354-A', 's 354-B', 's 376', 's: 376']",,
-ASDU010005832018,POCSO Act,"['2 (D)', '29', '3', '30', '4', '5', '7', '8', '9']",,
-ASDU100000242020,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100000242020,Indian Penal Code,['457/506'],,
-ASDU100000242020,POCSO Act,['4'],,
-ASDU100001162017,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['4']
-ASDU100001162017,Indian Penal Code,"['120(B)/366(A', '120(B)/366(A)', '120(B)/366(A', '120(B)/366(A)', '366 (A)', '366(A)', '366A']",,
-ASDU100001162017,POCSO Act,['4'],,
-ASDU010000582016,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,['366(A)']
-ASDU010000582016,Indian Penal Code,"['341/366', '341/366-A/34', 'A/34', '366-A']",POCSO Act,['8']
-ASDU010000582016,POCSO Act,['8'],,
-ASDU100001142017,Code Of Criminal Procedure,"['164', '222', '313', '360', '365', '428', 'ec 222']",POCSO Act,['4']
-ASDU100001142017,Indian Penal Code,['354'],,
-ASDU100001142017,POCSO Act,"['4', '7', '8']",,
-ASDU010013902018,Code Of Criminal Procedure,"['.164', '.313']",Indian Penal Code,['376']
-ASDU010013902018,Indian Penal Code,['.376'],POCSO Act,['4']
-ASDU010013902018,POCSO Act,"['.4', 'ec.4']",,
-ASDU010013902018,|.P.C.,['.376'],,
-ASDU100000442019,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100000442019,Indian Penal Code,"['366(A)/376 I.P.C Read', '366(A)/376', '366(A)/376/506 I.P.C And', '366(A)/376/506', '365']",,
-ASDU100000442019,POCSO Act,['4'],,
-ASDU010018342018,Code Of Criminal Procedure,"['313', '437A', '.207']",Indian Penal Code,"['376', '511']"
-ASDU010018342018,Indian Penal Code,"['376/506', '448', '448/376/511/506', '. 448', 'ec.448']",POCSO Act,['8']
-ASDU010018342018,POCSO Act,"['8', 'ec.8']",,
-ASDU010007702017,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,"['342', '376']"
-ASDU010007702017,Indian Penal Code,"['342/376', '342/376', '354', '376']",POCSO Act,['4']
-ASDU010007702017,POCSO Act,"['4', '8']",,
-ASDU010002792019,Code Of Criminal Procedure,"['207', '313', '437A']",Indian Penal Code,['376AB']
-ASDU010002792019,Indian Penal Code,"['376(2)(I)', '376(Ab)', '.376(Ab)']",POCSO Act,['4']
-ASDU010002792019,POCSO Act,"['376(Ab) Read With  4', '4', '6', 'ction 376(Ab)', 'ction 6', 'ec. 6']",,
-ASDU010005792016,Code Of Criminal Procedure,"['164', '313']",Indian Penal Code,"['323', '34']"
-ASDU010005792016,Indian Penal Code,"['323', '323/34', '34', '341', '341/342/323/34', '342', 's 2']",POCSO Act,['8']
-ASDU010005792016,POCSO Act,"['4', '8']",,
-ASDU010005792016,"POCSO Act, 2012","['2(D)', '4', '7', '8']",,
-ASDU010005792016,Posco Act,"['29', '30']",,
-ASDU100003072017,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['4']
-ASDU100003072017,Indian Penal Code,"['366A/34', '366(A)']",,
-ASDU100003072017,POCSO Act,"['366(A)', '366(A) R', '366(A)/34 I.P.C R', '366(A)/34', '366A R', '4', '4', '3', '366(A)', '4']",,
-ASDU010003482017,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,"['376', '511', '34']"
-ASDU010003482017,Indian Penal Code,"['376/511', '376/511/34', '376/511', '376/511/34', ': 376', 's 376']",POCSO Act,['8']
-ASDU010003482017,POCSO Act,"['2 (D)', '4', '8']",,
-ASDU010001032017,Code Of Criminal Procedure,"['161', '164', '222 (2)', '313', '357-A', '53-A']",POCSO Act,['4']
-ASDU010001032017,Indian Evidence Act,['118'],Indian Penal Code,['376']
-ASDU010001032017,Indian Penal Code,"['354-B', '375', '376 (2) (I)', '376', '376(2)(I)', 's 354-B']",,
-ASDU010001032017,POCSO Act,"['. 5 (1)', '10', '24', '3', '4', '7', '9 (M)', '9']",,
-ASDU010001032017,S 2 (D) Of POCSO Act,[''],,
-ASDU010017752018,Code Of Criminal Procedure,"['.313', 'ec.437A']",Indian Penal Code,"['447', '376(3)']"
-ASDU010017752018,Indian Penal Code,"['. 120(B)/342/376/34', '. 376(2)(I)', '.120(B)', '.120(B) .120(B)/342/376/34', '.376(2)(I)', '.376(I)(2)']",POCSO Act,['4']
-ASDU010017752018,POCSO Act,"['.4', 'ec.4']",,
-ASDU010017752018,"POCSO Act, 2012",['ec. 4'],,
-ASDU010001582017,Code Of Criminal Procedure,"['161', '164', '222 (2)', '313', '357-A', '53-A', '. 164', 'U.. 164']",POCSO Act,['4']
-ASDU010001582017,Indian Evidence Act,['6'],Indian Penal Code,['376']
-ASDU010001582017,Indian Penal Code,"['3/76', '375', '376', '376/511', '447/376', '447/376/511/506', 's 376']",,
-ASDU010001582017,POCSO Act,"['3', '4', '7', '8', 's 376\nIpc Read With  4']",,
-ASDU100005122019,Code Of Criminal Procedure,['313'],POCSO Act,['4']
-ASDU100005122019,POCSO Act,"['4', '6']",,
-ASDU100001422017,Code Of Criminal Procedure,"['161', '437(A)']",POCSO Act,['8']
-ASDU100001422017,Indian Penal Code,"['5|Page 448/354/323', '448/323', '448/354/323', '323', '448']",,
-ASDU100001422017,POCSO Act,"['4', '8']",,
-ASDU010002732015,Code Of Criminal Procedure,"['161', '164', '313', '437-A']",POCSO Act,['4']
-ASDU010002732015,Indian Penal Code,"['376', 'm376']",Indian Penal Code,['376']
-ASDU010002732015,POCSO Act,"['2 (D)', '4']",,
-ASDU010003212016,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU010003212016,Cr. P.,['161'],Indian Penal Code,['376']
-ASDU010003212016,Indian Penal Code,"['376', '447/325/376/506 Ipc.', '447/325/376/506', '447/376/506', '447/376/506/', ': 376']",,
-ASDU010003212016,POCSO Act,['4'],,
-ASDU010005252015,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['457376']
-ASDU010005252015,Indian Penal Code,"['376', '457', '457,376', '457/376 And', '457/376']",,
-ASDU010005252015,POCSO Act,['4/8'],,
-ASDU010005252015,"POCSO Act, 2012","['4', '4/8']",,
-ASDU010005252015,Pocso Act,"['4', '4/8']",,
-ASDU010004682016,Code Of Criminal Procedure,"['161', '357-A']",POCSO Act,['12']
-ASDU010004682016,Indian Penal Code,"['18. 354-D', '294', '354-D', '354-D/294/506', '354-D/506', '503', '506', 'D/294/506', 'D/506']",Indian Penal Code,"['354(D)', '294', '506']"
-ASDU010004682016,POCSO Act,"['Ection 12', '11', '12', '2 (D)', 'ectiom 12']",,
-ASDU010005862016,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,"['366(A)', '376']"
-ASDU010005862016,Indian Penal Code,"['366-A 366-A/376', '366-A A/376', '366- A/376', '366-A', '366-A/376', '375', '376', '417/366', '417/366-A/376', 'A/376']",POCSO Act,['4']
-ASDU010005862016,POCSO Act,"['3', '4', 'ectiom 4']",,
-ASDU100001902019,Code Of Criminal Procedure,['313'],POCSO Act,['4']
-ASDU100001902019,Indian Penal Code,['376(Ab)'],,
-ASDU100001902019,POCSO Act,['4'],,
-ASDU100003332018,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['4']
-ASDU100003332018,Indian Penal Code,"['375', '376(2)(I)']",,
-ASDU100003332018,POCSO Act,"['3', '4']",,
-ASDU010011672019,Code Of Criminal Procedure,['313'],Indian Penal Code,['363(3)']
-ASDU010011672019,Indian Penal Code,"['376 (3)', '376(3)']",POCSO Act,['6']
-ASDU010011672019,POCSO Act,['6'],,
-ASDU010004572015,Code Of Criminal Procedure,"['. 164', '.164', '.313', '.357 (A)']",POCSO Act,['4']
-ASDU010004572015,Indian Penal Code,"['375', '.376', '.456']",,
-ASDU010004572015,POCSO Act,"['4', 'ec. 4']",,
-ASDU100003322018,Code Of Criminal Procedure,['313'],POCSO Act,['6']
-ASDU100003322018,POCSO Act,"['10', '8']",,
-ASDU010002602015,Code Of Criminal Procedure,['.313'],POCSO Act,['4']
-ASDU010002602015,POCSO Act,['.4'],,
-ASDU100000992017,Code Of Criminal Procedure,"['164', '235(2)', '313', '357(1)', '360']",POCSO Act,['4']
-ASDU100000992017,Indian Penal Code,"['447/506', '447', '447/506', '506']",,
-ASDU100000992017,POCSO Act,"['2(D)', '3', '4']",,
-ASDU100000992017,Probation Of Offenders Act,['ec. 3/4'],,
-ASDU010005122018,Code Of Criminal Procedure,"['164', '313', '357(A)']",Indian Penal Code,['354B']
-ASDU010005122018,Indian Penal Code,['354-B'],POCSO Act,['8']
-ASDU010005122018,POCSO Act,['8'],,
-ASDU010005962015,Code Of Criminal Procedure,"['363 (1)', '-222', '. 161', '.164', '.356 (A)', '.365', '.428']",POCSO Act,['4']
-ASDU010005962015,POCSO Act,"['4', '7', '8', '. 4', '. 8', '.4', '.7', '.8', 'ec. 4']",,
-ASDU100000472019,Code Of Criminal Procedure,['313'],POCSO Act,['4']
-ASDU100000472019,Indian Penal Code,"['341/506', '341', '341/34', '341/506', '506']",,
-ASDU100000472019,POCSO Act,['4'],,
-ASDU100000472019,"POCSO Act, 9/10",['4'],,
-ASDU100000712019,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100000712019,Indian Penal Code,"['120(B)/376', '120(B) 120(B)/114', '120(B)']",,
-ASDU100000712019,POCSO Act,['4'],,
-ASDU100000712019,Penal Code,"['120(B)/376 Indian', '120(B)/376']",,
-ASDU010001952016,"Ces Act, 2012","['Class-Vii', '4']",POCSO Act,['4']
-ASDU010001952016,Code Of Criminal Procedure,"['164', '313']",,
-ASDU010001952016,Indian Penal Code,"['27. 376', '28. 90', '366 (A)', '366(A)', '375', '376', '90', '366(A)', 's366(A)']",,
-ASDU010001952016,POCSO Act,['4'],,
-ASDU010003592017,Code Of Criminal Procedure,"['161', '164', '313']",Indian Penal Code,"['366A', '376']"
-ASDU010003592017,Cr,['357-A'],POCSO Act,['4']
-ASDU010003592017,Indian Penal Code,"['359', '361', '363', '363/376', '366-A/376', '375', '376 9', '376', 'A/376']",,
-ASDU010003592017,POCSO Act,"['2 (D)', '3', '4']",,
-ASDU100000462019,Code Of Criminal Procedure,['313'],POCSO Act,['10']
-ASDU100000462019,POCSO Act,"['10', '8']",,
-ASDU100003582018,Code Of Criminal Procedure,['313'],POCSO Act,['6']
-ASDU100003582018,Indian Penal Code,"['366(A)/343/376', '366(A)/376/343', '366/376', '366/376/343', '366(A)/343/376']",,
-ASDU100003582018,POCSO Act,['6'],,
-ASDU100003582018,POCSO Contd,['6'],,
-ASDU010007372018,Code Of Criminal Procedure,"['161', '164', '222 (2)', '313', '357-A']",Indian Penal Code,['354B']
-ASDU010007372018,Indian Penal Code,"['32. 354-B', '354-B', 's 354-B']",POCSO Act,['8']
-ASDU010007372018,POCSO Act,"['15 \x0c 10', '10', '11', '12', '2 (D)', '24', '7', '8', '8/10', '9 (M)', '9']",,
-ASDU010001482016,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU010001482016,Indian Penal Code,['376 (2) (I) (I)'],Indian Penal Code,['376(2)(i)(l)']
-ASDU010001482016,POCSO Act,['4'],,
-ASDU100000262017,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100000262017,Indian Penal Code,"['447/448/313/326', '447/448/313/326/506 I.P.C And', '447/448/313/326/506', '448/376(1)/313/323/506 I.P.C And', '448/376(1)/313/323/506', '448/376(L)/313/323/506 I.P.C And', '448/376(L)/313/323/506']",Indian Penal Code,"['448', '376(l)', '313', '323', '506']"
-ASDU100000262017,POCSO Act,['4'],,
-ASDU100002862019,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100002862019,Indian Penal Code,['376(2)(3)'],,
-ASDU100002862019,POCSO Act,['4'],,
-ASDU100002312019,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100002312019,Indian Penal Code,['365'],,
-ASDU100002312019,POCSO Act,['4'],,
-ASDU100000552016,Code Of Criminal Procedure,"['164', '313', '357 (A)', '357 A', '365', '428']",POCSO Act,['4']
-ASDU100000552016,Evidence Act,['60'],,
-ASDU100000552016,Indian Penal Code,['360'],,
-ASDU100000552016,POCSO Act,"['29', '3', '4']",,
-ASDU100003782018,Code Of Criminal Procedure,"['164', '313']",POCSO Act,['4']
-ASDU100003782018,Indian Penal Code,"['366(A)/376(2)(I', '366(A)/376(2)(I)', '366 (A)', '366(A)', '366(A)/376', '366(A)/376(2)(I', '366(A)/376(2)(I)', '376 (2)(I)']",,
-ASDU100003782018,Of Indian Penal Code,['366(A)/376'],,
-ASDU100003782018,POCSO Act,['4'],,
-ASDU100001042017,Code Of Criminal Procedure,"['235(2)', '313', '357(1)', '360']",POCSO Act,['4']
-ASDU100001042017,POCSO Act,"['3', '4']",,
-ASDU100001042017,Probation Of Offenders Act,['ec. 3/4'],,
-ASDU100001032017,Code Of Criminal Procedure,"['164', '313', '437(A)']",POCSO Act,['4']
-ASDU100001032017,Indian Penal Code,"['366(A)/34 I.P.C R', '366(A)/34', '366(A) And', '366(A)', '366A']",,
-ASDU100001032017,POCSO Act,"['366A ___R', '4', '3', '366(A)', '4']",,
+ASNG010008652018,Code Of Criminal Procedure,"['161', '164', '173', '313', '357-A', '365', '366', '428', '.\n207']",Protection of Children from Sexual Offence Act 2012,['6']
+ASNG010008652018,Evidence Act,['32'],,
+ASNG010008652018,"Indian Evidence Act, 1872",['32'],,
+ASNG010008652018,Indian Penal Code,"['120(B)/212', '120(B)/212/201', '120- B/212', '120- B/212/201', '120-B/212', '448/201/302', '448/302/201', '448/376(D)/201/302 Ipc R', '448/376(D)/201/302', 'B/212', 'B/212/201', '201', '202', '212', '25', '26', '302', '448', '448/201', '.\n448', '.\n448 448/376(D)/201/302', '. 120-B', '. 202', '. 448']",,
+ASNG010008652018,"Limitation Act, 1963",['Article 115'],,
+ASNG010008652018,POCSO Act,"['29', '5', '5(G)', '6', 'ec. 4', 'ec. 5(G)', 'ec.4', 'ec.6']",,
+ASNG010018122018,.P.C.,['-164 Cr'],Protection of Children from Sexual Offence Act 2012,"['366(A)', '']"
+ASNG010018122018,Code Of Criminal Procedure,"['-164', '-313', '-437(A)']",,
+ASNG010018122018,Indian Penal Code,"['-363', '-366', '-366(A)']",,
+ASNG010018122018,Of POCSO Act,['-29'],,
+ASNG010018122018,POCSO Act,"['-29', '-4']",,
+ASSN010001342017,Code Of Criminal Procedure,['313'],Protection of Children from Sexual Offences,['4']
+ASSN010001342017,Indian Penal Code,['376'],,
+ASSN010001342017,POCSO Act,"['4', '7', '8']",,
+ASSN010004782017,Code Of Criminal Procedure,"['164', '313.Crpc']",Protection of Children from Sexual Offences,['6']
+ASSN010004782017,Indian Penal Code,['376(D)'],,
+ASSN010004782017,POCSO Act,"['3', '4', '6']",,
+ASSN010013622017,Code Of Criminal Procedure,"['I.0', '161', '164', '207', '235(2)', '313', '357 A', '365', '- 161']",Protection of Children from Sexual Offences,['4']
+ASSN010013622017,Evidence Act,['65(B)(4)'],Indian Penal Code,['302']
+ASSN010013622017,Indian Penal Code,"['302/201', '201', '302', '302/201']",,
+ASSN010013622017,POCSO Act,"['Ipc And 8', '4', '8']",,
+ASSN010005202019,Code Of Criminal Procedure,"['164', '207', '313']",Protection of Children from Sexual Offences,['8']
+ASSN010005202019,Indian Penal Code,"['448/376/511', '376/511', '8']",,
+ASSN010005202019,POCSO Act,['8'],,
+ASSN070002372019,Code Of Criminal Procedure,"['164', '173', '313', 'ec. 365']",Indian Penal Code,"['363', '343']"
+ASSN070002372019,Indian Penal Code,"['363/343', '363']",Pocso 2012,['4']
+ASSN070002372019,POCSO Act,"['4', 'ec. 4']",,
+ASSN070000452017,Code Of Criminal Procedure,"['164', '173', '313', '437-A', 'ec. 365']",Pocso 2012,['8']
+ASSN070000452017,POCSO Act,['8'],,
+ASSN070000182017,Code Of Criminal Procedure,"['164', '173', '313', 'ec. 365']",Pocso 2012,['8']
+ASSN070000182017,POCSO Act,['8'],,
+ASSN070002502018,Code Of Criminal Procedure,"['173', '313', 'ec. 365', 'ec. 437-A']",Pocso 2012,['8']
+ASSN070002502018,POCSO Act,['8'],,
+ASSN010000912018,Code Of Criminal Procedure,"['. 1(1) To Ext. 1(3)', '161', '164', '313']",Protection of Children from Sexual Offences,['46']
+ASSN010000912018,Evidence Act,['. 154'],,
+ASSN010000912018,Indian Penal Code,"['376/34', '376', '376/34']",,
+ASSN010000912018,POCSO Act,"['24(2)', '26', '4', '4/6', '6']",,
+ASSN070003322018,Code Of Civil Procedure,['ec. 437-A'],Pocso 2012,['4']
+ASSN070003322018,Code Of Criminal Procedure,"['164', '173', '313', 'ec. 365']",,
+ASSN070003322018,Indian Penal Code,"['323/366/376', '448/366(A)/323/506 Ipc R', '448/366(A)/323/506', '323/366/376']",,
+ASSN070003322018,POCSO Act,['4'],,
+ASSN010013062017,Code Of Criminal Procedure,"['. 3(1) And Ext. 3(2)', '164', '313']",Protection of Children from Sexual Offences,['4']
+ASSN010013062017,Indian Penal Code,"['363', '365']",,
+ASSN010013062017,POCSO Act,['4'],,
+ASSN010002092017,Code Of Criminal Procedure,"['164', '207', '313']",Protection of Children from Sexual Offences,['4']
+ASSN010002092017,Indian Penal Code,"['448/493/417', '493/417', '376', '417', '493', '493/417', '90']",,
+ASSN010002092017,POCSO Act,"['. 3', '4']",,
+ASSN010003222017,Code Of Criminal Procedure,"['161', '164', '313', '357 (A)', '/164']",Protection of Children from Sexual Offences,['8']
+ASSN010003222017,Evidence Act,"['118', '.118']",,
+ASSN010003222017,POCSO Act,"['18', '29', '30', '8', '. 18', '. 29', '.18', '.3', '.3 5', '.3 7', '.3 9']",,
+ASSN010002382019,Code Of Criminal Procedure,"['161', '164', '207', '313']",Protection of Children from Sexual Offences,['4/6']
+ASSN010002382019,Indian Penal Code,"['376 (2) (I)', '376', '376(2) (1)', '376(2) (I)', '8']",,
+ASSN010002382019,Ipc Of Indian Penal Code,['376(2) (I)'],,
+ASSN010002382019,POCSO Act,"['4/6', '6']",,
+ASSN010015512017,Code Of Criminal Procedure,"['164', '313']",Protection of Children from Sexual Offences,['46']
+ASSN010015512017,Cr.P:-C.\At The,['164'],,
+ASSN010015512017,Indian Penal Code,['363'],,
+ASSN010015512017,Of Indian Penal Code,['363.'],,
+ASSN010015512017,POCSO Act,"['Ipc And 4', '3', '4', '4/6']",,
+ASSN010015512017,"Penetrative Sexual Assault,.-",['3'],,
+ASSN010011552017,Code Of Criminal Procedure,"['161', '164', '207', '313']",Protection of Children from Sexual Offences,['4']
+ASSN010011552017,POCSO Act,"['. 6', '4']",,
+ASSN010017512018,.P.C,['313.Cr'],Protection of Children from Sexual Offences,['4']
+ASSN010017512018,Code Of Criminal Procedure,"['164', '207', '313', '357 A', '365']",,
+ASSN010017512018,Evidence Act,['118'],,
+ASSN010017512018,POCSO Act,"['12', '2(D)', '3(A)', '4', '5 (M)', '6']",,
+ASSN010017512018,Pocsq Act,['4'],,
+ASSN010011242017,Code Of Criminal Procedure,"['164', '313 @Rp.C. Took', '343', '428', '\\207']",Protection of Children from Sexual Offences,['8']
+ASSN010011242017,POCSO Act,"['11', '12', '2 (D)', '2(D)', '8']",,
+ASSN010011242017,R.P.C.,"[', 164']",,
+ASSN070004442019,Code Of Criminal Procedure,"['164', '173', '313', 'ec. 365']",Indian Penal Code,['363']
+ASSN070004442019,Indian Penal Code,['363'],Pocso 2012,['4']
+ASSN070004442019,POCSO Act,['4'],,
+ASSN010000522018,Code Of Criminal Procedure,"['164', '313']",Protection of Children from Sexual Offences,['18']
+ASSN010000522018,Indian Penal Code,"['366 A', '366(A)']",,
+ASSN010000522018,POCSO Act,['18'],,
+ASSN010000522018,Posco Act,['18'],,
+ASSN010012862017,Code Of Criminal Procedure,"['164', '313']",Protection of Children from Sexual Offences,['4']
+ASSN010012862017,Indian Penal Code,['363'],,
+ASSN010012862017,Ipg,['365'],,
+ASSN010012862017,Ofpocso Act,['4'],,
+ASSN010012862017,POCSO Act,['4'],,
+ASSN010012862017,Pogeso. Act,['4'],,
+ASSN070005512018,Code Of Criminal Procedure,"['164', '173', '313', 'ec.\n365']",Pocso 2012,['4']
+ASSN070005512018,POCSO Act,['4'],,
+ASSN010004422017,Code Of Criminal Procedure,"['164', '313', '164']",Protection of Children from Sexual Offences,['6']
+ASSN010004422017,Indian Penal Code,"['376(2)(1)', '417', '420']",,
+ASSN010004422017,POCSO Act,"['4', '6']",,
+ASSN070000642019,Code Of Criminal Procedure,"['173 e', '313', 'ec. 365', 'ec. 437-A']",Indian Penal Code,"['376', '511', '34']"
+ASSN070000642019,Indian Penal Code,"['376/511/34', 'Ey 376/511/34', 'ec.\n 376']",Pocso 2012,['8']
+ASSN070000642019,POCSO Act,"['511/34', '8']",,
+ASSV010001962017,Code Of Criminal Procedure,"['313', '. 164', '. 1640F', '. 313', '.313']",Protection of Children from sexual offence Act,['8']
+ASSV010001962017,POCSO Act,"['10', '24', '8', '. 10', '. 8']",,
+ASSV010001962017,Popcso Act,"['9', '9(M)']",,
+ASSV090001682017,Code Of Criminal Procedure,"['437(A)', '164', '313', '357(A)']",1Indian Penal Code,['366']
+ASSV090001682017,Indian Penal Code,"['366', '366(A)', 's 366']",5Protection of children from sexual offence act 2012,['4']
+ASSV090001682017,POCSO Act,['4'],,
+ASSV090001682017,Posco Act 2012,['4'],,
+ASSV090001602017,Code Of Criminal Procedure,"['437(A)', '313']",5Protection of children from sexual offence act 2012,['10']
+ASSV090001602017,"Cr.P,C.",['357(A)'],,
+ASSV090001602017,Indian Evidence Act 1872,['4'],,
+ASSV090001602017,"POCSO Act, 2012","['10', '29', '3,5,7', '8', '9']",,
+ASSV010003612019,Code Of Criminal Procedure,"['164', '232', '313', '357-A', '365', '437-A']","Protection of Children from Sexual Offences Act,2012",['8']
+ASSV010003612019,Indian Penal Code,"['323/451/354', '323']",Indian Penal Code,"['448', '354(A)', '324']"
+ASSV010003612019,POCSO Act,"['448/354(A)/324 Ipc', '448/354(A)/324', '448', '448 448/354(A)/326', '323', '323 323/451/354', '448', '448 448/354(A)/324 Ipc R', '448 448/354(A)/324', '448  8', '8']",,
+ASSV010005512019,Code Of Criminal Procedure,"['164', '222', '313', '363(1)', '365', '428']",Indian Penal Code,['376 (A)(B)']
+ASSV010005512019,Indian Penal Code,"['376', '376Ab', 's 376 Ab', 's 376Ab']","Protection of Children from Sexual Offences Act,2012",['6']
+ASSV010005512019,Oflpc,"['118', '- 376Ab']",,
+ASSV010005512019,POCSO Act,"['10', '29', '3', '5', '6', '7', '9', '57', 'ec. 6']",,
+ASSV010005512019,Probation Of Offenders Act,"['3', '4']",,
+ASSV010008752017,Code Of Criminal Procedure,"['164', '232', '313', '357 A', '365', '437-A']",Protection of Children from sexual offence Act,['12']
+ASSV010008752017,Indian Penal Code,"['451', '451/354(B', '451/354(B)']",,
+ASSV010008752017,POCSO Act,"['10', '12', '8']",,
+ASSV010006662017,Code Of Criminal Procedure,"['164', '357', '357A', '363(1)', '365', '428']",Protection of Children from sexual offence Act,['4']
+ASSV010006662017,Cr,['313'],,
+ASSV010006662017,Evidence Act,['114A'],,
+ASSV010006662017,Indian Penal Code,"['375', '376 (2)', '376', '90']",,
+ASSV010006662017,POCSO Act,"['29', '3', '4', '5 (I)', '5 (J) (Ii)', '5 (N)', '5', '6', '7', '9']",,
+ASSV010006662017,Probation Of Offenders Act,"['3', '4']",,
+ASSV010006662017,S 376 Of Indian Penal Code,['ub- (2)'],,
+ASSV010010952017,Code Of Criminal Procedure,"['164', '232', '313', '357-A', '365', '437 A']",Protection of Children from sexual offence Act,['4']
+ASSV010010952017,POCSO Act,['4'],,
+ASSV010003112017,Code Of Criminal Procedure,"['164', '313', '357-A', '365', '437-A']",Protection of Children from sexual offence Act,['8']
+ASSV010003112017,POCSO Act,"['29', '8']",,
+ASSV010012372017,Code Of Criminal Procedure,"['164', '313', '357 A', '365', '437-A']",Protection of Children from sexual offence Act,['6']
+ASSV010012372017,Indian Penal Code,['506'],,
+ASSV010012372017,POCSO Act,['4'],,
+ASSV010013012018,Code Of Criminal Procedure,"['164', '222', '313', '357', '360', '363(1)', '365', '428']","Protection of Children from Sexual Offences Act,2012",['4']
+ASSV010013012018,Cr.P,['164'],Indian Penal Code,"['376 AB', ' 511']"
+ASSV010013012018,"Evidence Act, 1872",['118'],,
+ASSV010013012018,"Indian Evidence Act, 1987",['118'],,
+ASSV010013012018,Indian Penal Code,"['376Ab/511', '376Ab', 's 376Ab']",,
+ASSV010013012018,"Oaths Act, 1873",['5'],,
+ASSV010013012018,POCSO Act,"['- 376Ab', '10', '29', '3', '4', '5', '6', '7', '9 (M)', '9']",,
+ASSV010001942019,Code Of Criminal Procedure,"['Class-Viil', '164', '232', '313', '365', '437-A']","Protection of Children from Sexual Offences Act,2012",['4']
+ASSV010001942019,Indian Penal Code,"['376(3)', '366/', '366/376(3', '366/376(3)', '361', '363', '366', '. 361']",Indian Penal Code,"['366', '376(3)']"
+ASSV010001942019,POCSO Act,"['4', '6']",,
+ASSV010001942019,|.P.C,['361'],,
+ASSV010011632017,Cfpc,['437 A'],Protection of Children from sexual offence Act,['4']
+ASSV010011632017,Code Of Criminal Procedure,"['164', '232', '313', '357 A', '365']",,
+ASSV010011632017,Indian Penal Code,"['376 (2)(I)Ipc R', '376(2)(I)']",,
+ASSV010011632017,POCSO Act,"['4', '6']",,
+ASSV010014162017,Code Of Criminal Procedure,"['164', '313', '357-A', '365', '437-A']",Protection of Children from sexual offence Act,['12']
+ASSV010014162017,POCSO Act,"['10', '12']",,
+ASBR010018052018,Code Of Criminal Procedure,"['164', '207', '365', '437(A)']",Indian Penal Code,['365']
+ASBR010018052018,Indian Penal Code,"['365/34', '365']",Protection of Children from Sexual Offence Act 2012,['8']
+ASBR010018052018,POCSO Act,"['313', '4']",,
+ASBR010009782017,Code Of Criminal Procedure,"['313', '365', '437-A']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010009782017,POCSO Act,['4'],,
+ASBR010003392018,Code Of Criminal Procedure,"['164', '313', '365', '437(A)']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010003392018,POCSO Act,"['366(A) Ipc', '4', '366(A) Ipc', '4']",,
+ASBR080002302019,Code Of Criminal Procedure,"['164', '173', '313', '365', '437 (A)']",Protection of Children from Sexual Offences Act'2012,['8']
+ASBR080002302019,POCSO Act,"['- 8', '8']",,
+ASBR010001322018,Code Of Criminal Procedure,"['164', '235(2)', '313', '360', '363', '365', '428']",Indian Penal Code,"['341', '354(D)', '506']"
+ASBR010001322018,Indian Penal Code,"['341/354 (D)/506', '341/354', '341/354(D)/506 Ipc And', '341/354(D)/506', 'D)/506']",Protection of Children from Sexual Offence Act 2012,['12']
+ASBR010001322018,POCSO Act,"['11', '12']",,
+ASBR010001322018,"POCSO Act, 2012",['12'],,
+ASBR010013262018,Code Of Criminal Procedure,"['164', '313', '365', '437(A)']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010013262018,POCSO Act,['4'],,
+ASBR010003042019,Code Of Criminal Procedure,"['164', '313']",Indian Penal Code,"['342', '354(C)', '376(N)', '506']"
+ASBR010003042019,Income Tax Act,"['67/67(A)/66(C', '67/67(A)/66(C)']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010003042019,Indian Penal Code,"['342/354(C)/376(N)/506 Ipc Read', '342/354(C)/376(N)/506', '354 (C)', '354(C)/376(N)/506 Ipc Read', '354(C)/376(N)/506 Ipc pl', '354(C)/376(N)/506', '376 (N)', '506']",Information Technology Act,"['67', '67(A)', '66(C)']"
+ASBR010003042019,Information Technology Act,"['67', '67-A', '67-B', '67/67(A)/67(B', '67/67(A)/67(B)']",,
+ASBR010003042019,POCSO Act,['4'],,
+ASBR010003042019,"POCSO Act, 2012",['4'],,
+ASBR080001152019,Code Of Criminal Procedure,"['164', '313', '365']",Protection of Children from Sexual Offences Act'2012,['18']
+ASBR080001152019,POCSO Act,"['18', '8']",,
+ASBR010011522019,Code Of Criminal Procedure,"['164', '207', '313', '365', '437(A)']",Indian Penal Code,"['448', '376(2)(n)']"
+ASBR010011522019,Indian Penal Code,"['376(2)(N)/448 Ipc And', '376(2)(N)/448', '448/34', '448/376(2)(N', '448/376(2)(N)', '448', '448/376']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010011522019,POCSO Act,"['3 (A) To (D)', '3', '4']",,
+ASBR010018192018,Code Of Criminal Procedure,"['161', '164', '235(2)', '313', '357 (3)', '360', '363', '365', '428']",Protection of Children from Sexual Offence Act 2012,['12']
+ASBR010018192018,POCSO Act,"['12 Not U', '12/18', '11', '12', '18']",,
+ASBR010018192018,Pocspo Act,['12'],,
+ASBR010014222017,Code Of Criminal Procedure,"['313', '365', '437-A']",Protection of Children from Sexual Offence Act 2012,['4']
+ASBR010014222017,Indian Penal Code,['376'],,
+ASBR010014222017,POCSO Act,['4'],,
