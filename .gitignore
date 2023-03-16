@@ -127,10 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-#Secrets
-*.json
-
-# Unnecesasry files
-*.txt
-*.pdf
