@@ -1,4 +1,4 @@
-# NLP_Justice
+# NLP experiments with judicial data
 This repository consists of all NLP related experiments conducted on Indian Legal-Judicial data by the JusticeHub team.
 
 ## Directory Tree:
