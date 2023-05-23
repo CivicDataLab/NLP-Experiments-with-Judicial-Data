@@ -4,11 +4,11 @@ In this experiment, we explored the use of [OpenNyAI](https://opennyai.org/) in 
 ## Directory Tree:
 1. [PDF_Txt_Conversion](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/PDF_Txt_Conversion.ipynb): Codebook to convert PDFs into TXT format. 
 2. [POCSO_filter](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/Filtering_POCSO_Cases.ipynb): Codebook that details how 51 POCSO judgments were filtered from the 1764 POCSO judgments available in Assam.
-3. [OpenNyAI_Summarize](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/OpenNyAI_Summarize.ipynb): Codebook that summarises judgment texts using OpenNyAI's Extractive Summariser. 
-4. [POCSO_Experiment_Judgments](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/POCSO_Experiment_Judgements): Directory containing the 51 POCSO judgments sampled and their summaries generated using OpenNyAI's summariser. 
-5. [Data](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO/Data): Directory of all POCSO case orders from Assam - divided district wise. It also contains the metadata extracted from eCourts for each case. 
-6. [pocso_analysis_datasets_1221](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO/pocso_analysis_datasets_1221): Directory containing datasets created by the JusticeHub on analysing POCSO cases in Assam. Datasource: [Link](https://justicehub.in/dataset/data4justice-unpacking-judicial-data-to-track-implementation-of-the-pocso-act-in-assam-delhi-haryana)
-7. [Results](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO/Results): This directory contains all results generated during the experiment. 
+3. [OpenNyAI_Summarize](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/OpenNyAI_Summarize.ipynb): Codebook that summarises judgment texts using OpenNyAI's Extractive Summariser.  
+4. [pocso_analysis_datasets_1221](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO/pocso_analysis_datasets_1221): Directory containing datasets created by the JusticeHub on analysing POCSO cases in Assam. Datasource: [Link](https://justicehub.in/dataset/data4justice-unpacking-judicial-data-to-track-implementation-of-the-pocso-act-in-assam-delhi-haryana)
+5. [Results](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO/Results): This directory contains all results generated during the experiment. 
+
+The 51 judgments used in the experiment are not shared here for privacy concerns. They can be made available on request. Please send an email to info@justicehub.in
 
 ## How to run this experiment?
 
@@ -26,7 +26,9 @@ In this experiment, we explored the use of [OpenNyAI](https://opennyai.org/) in 
 
 Codes to implement Steps 3,4,5 are in this codebook - [OpenNyAI_Summarize](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/OpenNyAI_Summarize.ipynb)
 
-The inferences are shared in this blog: Link
+The inferences are shared in this blog: [Link](https://medium.com/civicdatalab/exploring-the-capabilities-of-natural-language-processing-nlp-in-conducting-legal-analysis-88ef2b9dec9c)
+
+The experiment was presented at a [HydPy](https://www.hydpy.org/) meetup. You can access the talk here:[Video](https://www.youtube.com/watch?v=xSibto2cLoA) and the slides used for the talk here: [Google Slides](https://www.youtube.com/watch?v=xSibto2cLoA)
 
 ## License
 All content in this repository is licensed under
