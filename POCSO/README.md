@@ -12,7 +12,7 @@ The 51 judgments used in the experiment are not shared here for privacy concerns
 
 ## How to run this experiment?
 
-1. **Step 1:** Convert PDFs of the judgments into TXT format. OpenNyAI's NLP Models take TXT as inputs. This codebook has details on cdoing this conversion[PDF_Txt_Conversion](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/PDF_Txt_Conversion.ipynb)
+1. **Step 1:** Convert PDFs of the judgments into TXT format. OpenNyAI's NLP Models take TXT as inputs. This codebook has details on doing this conversion: [PDF_Txt_Conversion](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/PDF_Txt_Conversion.ipynb)
 2. **Step 2:** Select a sample space of judgments to perform the experiment. We selected 51 POCSO judgments from 1764 judgments delivered. eCourts does not have a judgment PDF for all of it - so took only those judgments that have a PDF on eCourts. Details of this filtering process is in this codebook - [POCSO_filter](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/Filtering_POCSO_Cases.ipynb)
 3. **Step 3:** Summarise the 51 selected POCSO judgments using OpenNyAI's Extractive Summariser. This will create 5 types of summaries for each judgment.
     - Preamble Summary
@@ -22,7 +22,7 @@ The 51 judgments used in the experiment are not shared here for privacy concerns
     - Decision Summary
     All these 5 types of summaries for a judgment are saved in the form of a JSON.
 4. **Step-4:** From the judgment summaries, identify POCSO Sections from the `Preamble` and `decision` summaries. These are defined as the `Relevant POCSO Sections` for a given case. Pattern matching is used to identify the POCSO Sections. 
-5. **Step-5**: A dataset is created comparing the POCSO Sections identified from the above step with the POCSO Sections identified in the metadata on eCourts. Link to the final dataste -  [pocso_provisions_51judgements.csv](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/Results/pocso_provisions_51judgements.csv)
+5. **Step-5**: A dataset is created comparing the POCSO Sections identified from the above step with the POCSO Sections identified in the metadata on eCourts. Link to the final dataset -  [pocso_provisions_51judgements.csv](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/Results/pocso_provisions_51judgements.csv)
 
 Codes to implement Steps 3,4,5 are in this codebook - [OpenNyAI_Summarize](https://github.com/CivicDataLab/NLP_Justice/blob/main/POCSO/OpenNyAI_Summarize.ipynb)
 
