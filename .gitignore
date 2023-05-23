@@ -1,6 +1,7 @@
 # Folders to ignore
-Data/
-POCSO_Experiment_Judgements/
+GPT/
+POCSO/Data/
+POCSO/POCSO_Experiment_Judgements/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
