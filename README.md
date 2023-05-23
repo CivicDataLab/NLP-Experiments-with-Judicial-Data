@@ -1,10 +1,12 @@
 # NLP_Justice
-This repository consists of all NLP related learnings on Indian Judicial data.
+This repository consists of all NLP related experiments conducted on Indian Legal-Judicial data by the JusticeHub team.
 
 ## Directory Tree:
 
 ### [OpenNyAI experiment on POCSO Cases](https://github.com/CivicDataLab/NLP_Justice/tree/main/POCSO)
-We selected a sample of 50 POCSO judgements from Assam and checked how OpenNyAI can be used to extract variables from the judgements to perform legal research. This repository has codebooks of this experiment.
+We selected a sample of 51 POCSO judgements from Assam and checked how OpenNyAI can be used to extract variables from the judgements to perform legal research. This repository has codebooks of this experiment. The inferences frm this experiment are shared in this blog: [Link](https://medium.com/civicdatalab/exploring-the-capabilities-of-natural-language-processing-nlp-in-conducting-legal-analysis-88ef2b9dec9c)
+
+The experiment was presented at a [HydPy](https://www.hydpy.org/) meetup. The talk can be accessed here:[Video](https://www.youtube.com/watch?v=xSibto2cLoA) and the slides used for the talk are here: [Google Slides](https://www.youtube.com/watch?v=xSibto2cLoA)
 
 ### [Named Entity Recognition (NER)](https://github.com/CivicDataLab/NLP_Justice/tree/main/NER)
 NERs are useful for recognising "Entities" in a piece of text. For Court Judgements, these entities could be "STATUTES", "JUDGE NAME" etc. This directory has codebook that experimented various NER Models on Indian judicial texts.
